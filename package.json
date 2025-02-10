@@ -1,0 +1,27 @@
+{
+  "name": "sahara-ai",
+  "version": "1.0.0",
+  "description": "SaharaAI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OCISHY/sahara-ai.git"
+  },
+  "keywords": [
+    "SaharaAI"
+  ],
+  "author": "OCISHY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OCISHY/sahara-ai/issues"
+  },
+  "homepage": "https://github.com/OCISHY/sahara-ai#readme",
+  "dependencies": {
+    "ethers": "^6.13.5",
+    "fs": "^0.0.1-security",
+    "https-proxy-agent": "^7.0.6"
+  }
+}
